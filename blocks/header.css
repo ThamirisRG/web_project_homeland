@@ -7,7 +7,7 @@
   display: flex;
   justify-content: center;
 }
-.header__logo_image{
+.header__img{
   width: 254px;
   height: 70px;
   margin-top:34px;
@@ -17,7 +17,7 @@
   width: 100%;
   color: #ffffff;
 }
-.header__content_title{
+.header__title{
   font-weight: 700;
   display: flex;
   text-align: center;
@@ -31,7 +31,7 @@
   margin: 90px auto;
 
 }
-.header__content_subtitle{
+.header__subtitle{
   font-family: 'Inter',sans-serif;
   font-weight: 400;
   font-size: 30px;
@@ -40,7 +40,7 @@
   margin: 32px auto 64px;
   max-width: 720px;
 }
-.header__content_image{
+.header__image{
   max-width: 984px;
   width: 100%;
   margin: 64px auto;
